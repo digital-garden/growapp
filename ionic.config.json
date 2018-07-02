@@ -1,0 +1,8 @@
+{
+  "name": "growApp",
+  "app_id": "f31d78e1",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
